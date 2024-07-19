@@ -1,0 +1,51 @@
+
+.container{
+width:320px;
+height:440px;
+border: 2px solid black;
+margin: 0 auto;
+}
+.uh{
+    color: #311313;
+    width:700px;
+    background-color:blue;
+    color: white;
+    font-size:70px;
+    text-align: center;
+    margin: 0 auto;
+    margin-bottom: 30px;  
+}
+
+
+  .traffic{
+    width: 200px;
+    height: 505px;
+    background-color:black;
+    padding: 20px;
+    margin: 0 auto;
+    
+    
+  }
+.light{
+    width: 150px;
+    height: 150px;
+    margin:20px auto;
+    border-radius: 50%;
+}
+.red{
+    background-color: red;
+}
+
+.yellow{
+    background-color: yellow;
+
+}
+.green{
+    background-color: green;
+}
+.tesla{
+    /* background-color: #70FF7E; */
+}
+body {
+    background-color: #70FF7E;
+}
